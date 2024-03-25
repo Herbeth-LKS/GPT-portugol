@@ -1,0 +1,7 @@
+algoritmo olamundo;
+
+início
+
+imprima ("ola,mundo");
+
+fim

@@ -1,0 +1,14 @@
+algoritmo lernome;
+
+variáveis
+
+nome : literal;
+
+fim-variáveis
+
+início
+
+nome := leia();
+imprima("ola,",nome);
+
+fim

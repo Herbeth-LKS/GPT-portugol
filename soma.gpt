@@ -1,0 +1,21 @@
+algoritmo soma;
+
+variáveis
+
+n1 : inteiro;
+n2 : inteiro;
+soma : inteiro;
+
+fim-variáveis
+
+início
+imprima("digite um numero");
+n1 := leia();
+imprima("digite outro numero");
+n2 := leia();
+
+soma := n1 + n2;
+
+imprima("a soma entre ",n1," e ",n2,"é igual a:",soma);
+
+fim
